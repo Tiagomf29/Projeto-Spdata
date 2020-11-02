@@ -1,0 +1,1 @@
+alter table tb_assunto add ativo char(1);
